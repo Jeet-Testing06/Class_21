@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="45537" started-at="2019-01-07T10:24:42Z" finished-at="2019-01-07T10:25:28Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="39623" started-at="2019-01-07T10:24:42Z" finished-at="2019-01-07T10:25:22Z">
+      <class name="pkg1.Node1">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:pkg1.Node1@523884b2]" name="tc1" duration-ms="39598" started-at="2019-01-07T15:54:42Z" finished-at="2019-01-07T15:55:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- pkg1.Node1 -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="45537" started-at="2019-01-07T10:24:42Z" finished-at="2019-01-07T10:25:28Z">
+      <class name="pkg1.Node2">
+        <test-method status="PASS" signature="tc2()[pri:0, instance:pkg1.Node2@f6c48ac]" name="tc2" duration-ms="45517" started-at="2019-01-07T15:54:42Z" finished-at="2019-01-07T15:55:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- pkg1.Node2 -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
